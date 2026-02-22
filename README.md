@@ -18,7 +18,7 @@ This is the slide used during the workshop.
 
 ## Pre-workshop preparation
 
-There will be quite a bit contents to cover, so some preparation in advance is highly recommended. This would make sure you could enjoy the process more! 
+There will be quite a bit contents to cover, so some preparation in advance is highly recommended. This would make sure you could enjoy the process more! It worths spending 30 mins to properly set up before the workshop. 
 
 ### 1. Download / install Git
 
@@ -31,3 +31,8 @@ Create a GitHub account on the [Github website](https://github.com/).
 ### 3. Link RStudio with Git/Github
 
  [Here](https://rcdsdocs.it.northwestern.edu/tutorials/r/git-with-r.html) is a online tutorial. Follow instructions from **Connect RStudio and Git** to **Linking to GitHub**. In the **Linking to GitHub** section, choose the *PAT for HTTPS* option. If you configured Git successfully, you shouldn't get `git not found` error when typing `git` in RStudio terminal.
+
+
+ ## During workhsop activities
+
+ - Guestbook: https://github.com/SunnyTseng/workshop_git_github_guestbook 
