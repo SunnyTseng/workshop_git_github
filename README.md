@@ -22,15 +22,15 @@ https://www.canva.com/design/DAHBzLgEh1Q/ECA13XnUMmjJ3CPtLTCnsw/edit?utm_content
 
 There will be quite a bit contents to cover, so some preparation in advance is highly recommended. This would make sure you could enjoy the process more! It worths spending 30 mins to properly set up before the workshop. 
 
-### 1. Download / install Git
+#### 1. Download / install Git
 
 Download and install Git in your computer. The software can be found [here](https://git-scm.com/). 
 
-### 2. Register a Github account
+#### 2. Register a Github account
 
 Create a GitHub account on the [Github website](https://github.com/). 
 
-### 3. Link RStudio with Git/Github
+#### 3. Link RStudio with Git/Github
 
  [Here](https://rcdsdocs.it.northwestern.edu/tutorials/r/git-with-r.html) is a online tutorial. Follow instructions from **Connect RStudio and Git** to **Linking to GitHub**. In the **Linking to GitHub** section, choose the *PAT for HTTPS* option. If you configured Git successfully, you shouldn't get `git not found` error when typing `git` in RStudio terminal.
 
