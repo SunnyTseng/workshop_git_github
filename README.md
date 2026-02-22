@@ -18,9 +18,9 @@ This is the slide used during the workshop:
 
 https://www.canva.com/design/DAHBzLgEh1Q/ECA13XnUMmjJ3CPtLTCnsw/edit?utm_content=DAHBzLgEh1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-## Pre-workshop preparation
+## Pre-workshop set-up
 
-There will be quite a bit contents to cover, so some preparation in advance is highly recommended. This would make sure you could enjoy the process more! It worths spending 30 mins to properly set up before the workshop. 
+❗❗**It is vital that you attempt to set up your system in advance. There will be quite a bit contents to cover, so some preparation in advance is highly recommended** This would make sure you could enjoy the process more!
 
 #### 1. Download / install Git
 
