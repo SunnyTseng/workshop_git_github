@@ -14,7 +14,9 @@ This workshop will teach you how to use Git and GitHub to implement reproducible
 
 ## Slides
 
-This is the slide used during the workshop.
+This is the slide used during the workshop:
+
+https://www.canva.com/design/DAHBzLgEh1Q/ECA13XnUMmjJ3CPtLTCnsw/edit?utm_content=DAHBzLgEh1Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Pre-workshop preparation
 
